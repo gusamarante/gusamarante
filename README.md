@@ -1,14 +1,7 @@
 # Gustavo Amarante
 
 ## Quick overview
-* GitHub stats:  
-<a href="https://github.com/gusamarante/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusamarante" />
-</a>
-<a href="https://github.com/gusamarante/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gusamarante&show_icons=true&line_height=27" alt="My github stats" />
-</a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gusamarante&show_icons=true&line_height=27" alt="My github stats" />
 
 <!--
 **gusamarante/gusamarante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
