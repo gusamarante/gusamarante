@@ -1,7 +1,7 @@
-[pydsge][http://www.pydsge.com]
+[pydsge]: http://www.pydsge.com
 
 # Gustavo Amarante
-* Author and Maintener of [pydsge](pydsge)
+* Author and Maintener of [pydsge][pydsge]
 * Maintainer and contributor of FinanceHub
 
 ## Quick overview
