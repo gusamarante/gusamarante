@@ -7,5 +7,5 @@
 * Author and maintener of [dsgepy][dsgepy] and [quantfin][QuantFin]
 
 <p align="center">
-    <img align="center" alt="seepls's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=gusamarante"/>
+    <img align="center" alt="seepls's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=gusamarante&hide_border=true"/>
 </p>
