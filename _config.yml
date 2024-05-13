@@ -22,9 +22,9 @@ repository               : "gusamarante/gusamarante.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Informations"  # Sidebar name
+  name             : "Gustavo Amarante"  # Sidebar name
   pronouns         : # example: "he/him"
-  bio              : "I need to write a short bio..."
+  bio              : "Everything in life comes with a click, except for true learning, job satisfaction and strong relationships."
   location         : "São Paulo, Brazil"
   employer         : "BWGI"
   uri              : # URL

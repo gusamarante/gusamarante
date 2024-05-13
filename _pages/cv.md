@@ -15,7 +15,7 @@ Asset Allocation and Systematic Strategies
 [//]: # (include academic interests)
 
 ---
-# Work Experience
+# *Work Experience*
 ### BWGI - Asset Allocation (2023 - Present)
 Research, development, and implementation of strategic asset allocation
 portfolio. Research on systematic investing overlays for fixed income, equities, credit,
@@ -39,7 +39,7 @@ modeling and projections. Monitoring macroeconomic and political
 scenario. Research to support traders’ decisions.
 
 ---
-# Education
+# *Education*
 ### Master’s in Economics – PUC-Rio (Rio de Janeiro, Brazil, 2013 - 2015)
 - **Dissertation Title**: *"Changes in the Brazilian yield curve responses to monetary shocks"*
 - **Advisor**: Carlos Viana de Carvalho (Former Monetary Policy Director of the Brazilian Central Bank)
@@ -60,12 +60,12 @@ scenario. Research to support traders’ decisions.
 [//]: # (Elaborate on this)
 
 ---
-# Developer Experience
+# *Developer Experience*
 - Author and maintainer of DSGEpy
 - Author and maintainer of pyAA
 
 ---
-# Skills
+# *Skills*
 ### Programming
 Python, SQL, MATLAB, VBA
 
