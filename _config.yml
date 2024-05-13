@@ -22,7 +22,7 @@ repository               : "gusamarante/gusamarante.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Informations"  # Sidebar name
   pronouns         : # example: "he/him"
   bio              : "I need to write a short bio..."
   location         : "São Paulo, Brazil"
@@ -62,7 +62,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "76561198036257022"
+  steam            : # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : "gusamarante"
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "UCLkeObMrMiHspY15xQdBpcw"
+  youtube          : # Username
   zhihu            : # URL
 
 
@@ -108,7 +108,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
