@@ -12,7 +12,7 @@ title                    : "Gustavo Amarante"
 title_separator          : "-"
 name                     : &name "Gustavo Curi Amarante"
 description              : &description "personal description"
-url                      : http://gusamarante.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gusamarante.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gusamarante/gusamarante.github.io"
 
