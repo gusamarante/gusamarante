@@ -49,7 +49,7 @@ scenario. Research to support traders’ decisions.
 - **Advisor**: Juan Jensen
 
 ### CQF – Certificate in Quantitative Finance (2021)
-[//]: # (Elaborate on this)
+Final project available [here](https://gusamarante.me/files/cqf%20final%20project.pdf).
 
 ### Data Science Specialization - Insper (2017)
 
