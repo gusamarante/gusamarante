@@ -7,58 +7,70 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[//]: # ({% include base_path %})
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Professional Interests
+Asset Allocation and Systematic Strategies
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+[//]: # (include academic interests)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
+# Work Experience
+### BWGI - Asset Allocation (2023 - Present)
+Research, development, and implementation of strategic asset allocation
+portfolio. Research on systematic investing overlays for fixed income, equities, credit,
+commodities, and FX to support structural portfolios. Systematic macro
+strategies to support tactical decisions.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Insper - Teaching Assistant (2010 - Present)
+- Asset allocation, quantitative finance, derivatives and fixed income for the master’s in economics program
+- Programming (VBA and Python), statistics, and econometrics for the undergraduate program
+- Mathematics for the ANPEC exam
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### BWGI - Macroeconomic Research (2015 - 2023)
+Detailed coverage and forecasting of Brazilian inflation to support fixed
+income discretionary trading. Analysis of the Brazilian balance of payments
+and FX flows for discretionary FX trading.
+
+### Itaú BBA – Macroeconomic Research (2011 - 2012)
+Trainee economist for Latin America and commodities on Ilan Goldfajn’s
+(Former president of the Brazilian central bank) team. Econometric
+modeling and projections. Monitoring macroeconomic and political
+scenario. Research to support traders’ decisions.
+
+---
+# Education
+### Master’s in Economics – PUC-Rio (Rio de Janeiro, Brazil, 2013 - 2015)
+- **Dissertation Title**: *"Changes in the Brazilian yield curve responses to monetary shocks"*
+- **Advisor**: Carlos Viana de Carvalho (Former Monetary Policy Director of the Brazilian Central Bank)
+
+### Bachelor’s degree in Economics – Insper (São Paulo, Brazil, 2008 - 2012)
+- **Graduation Paper**: *"Estimating Brazilian Central Bank preferences under the inflation target regime"*
+- **Advisor**: Juan Jensen
+
+### CQF – Certificate in Quantitative Finance (2021)
+[//]: # (Elaborate on this)
+
+### Data Science Specialization - Insper (2017)
+
+[//]: # (Elaborate on this)
+
+### Deep Learning Specialization - Coursera (2020)
+
+[//]: # (Elaborate on this)
+
+---
+# Developer Experience
+- Author and maintainer of DSGEpy
+- Author and maintainer of pyAA
+
+---
+# Skills
+### Programming
+Python, SQL, MATLAB, VBA
+
+### Languages
+- Portuguese: native language
+- English: Fluent
+- French: Intermediate
+- Japanse: Beginner
