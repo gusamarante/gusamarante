@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gustavo Amarante's personal page"
+title: "Gustavo Amarante"
 author_profile: true
 redirect_from: 
   - /about/
