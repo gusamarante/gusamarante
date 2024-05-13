@@ -9,7 +9,7 @@ redirect_from:
 
 [//]: # ({% include base_path %})
 
-# Professional Interests
+# *Professional Interests*
 Asset Allocation and Systematic Strategies
 
 [//]: # (include academic interests)
@@ -41,11 +41,11 @@ scenario. Research to support traders’ decisions.
 ---
 # *Education*
 ### Master’s in Economics – PUC-Rio (Rio de Janeiro, Brazil, 2013 - 2015)
-- **Dissertation Title**: *"Changes in the Brazilian yield curve responses to monetary shocks"*
+- **Dissertation Title**: *"Changes in the Brazilian yield curve responses to monetary shocks"*. Available [here](https://gusamarante.me/files/masters%20dissertation.pdf).
 - **Advisor**: Carlos Viana de Carvalho (Former Monetary Policy Director of the Brazilian Central Bank)
 
 ### Bachelor’s degree in Economics – Insper (São Paulo, Brazil, 2008 - 2012)
-- **Graduation Paper**: *"Estimating Brazilian Central Bank preferences under the inflation target regime"*
+- **Graduation Paper**: *"Estimating Brazilian Central Bank preferences under the inflation target regime"*. Available [here](https://gusamarante.me/files/monografia.pdf).
 - **Advisor**: Juan Jensen
 
 ### CQF – Certificate in Quantitative Finance (2021)
