@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ---
 # pyAA
 This repository was born as a quantitative finance project during my studies for the CQF, but it ended up as 
