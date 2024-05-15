@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[//]: # ({% include base_path %})
+{% include base_path %}
 
+---
 # *Professional Interests*
 Asset Allocation and Systematic Strategies
 
@@ -41,11 +42,11 @@ scenario. Research to support traders’ decisions.
 ---
 # *Education*
 ### Master’s in Economics – PUC-Rio (Rio de Janeiro, Brazil, 2013 - 2015)
-- **Dissertation Title**: *"Changes in the Brazilian yield curve responses to monetary shocks"*. Available [here](https://gusamarante.me/files/masters%20dissertation.pdf).
+- **Dissertation**: *["Changes in the Brazilian yield curve responses to monetary shocks"](https://gusamarante.me/files/masters%20dissertation.pdf)*.
 - **Advisor**: Carlos Viana de Carvalho (Former Monetary Policy Director of the Brazilian Central Bank)
 
 ### Bachelor’s degree in Economics – Insper (São Paulo, Brazil, 2008 - 2012)
-- **Graduation Paper**: *"Estimating Brazilian Central Bank preferences under the inflation target regime"*. Available [here](https://gusamarante.me/files/monografia.pdf).
+- **Graduation Paper**: *["Estimating Brazilian Central Bank preferences under the inflation target regime"](https://gusamarante.me/files/monografia.pdf)*.
 - **Advisor**: Juan Jensen
 
 ### CQF – Certificate in Quantitative Finance (2021)
@@ -61,8 +62,8 @@ Final project available [here](https://gusamarante.me/files/cqf%20final%20projec
 
 ---
 # *Developer Experience*
-- Author and maintainer of DSGEpy
-- Author and maintainer of pyAA
+- Author and maintainer of [DSGEpy](https://dsgepy.com/), a python library to calibrate, estimate and analyze linearized DSGE models
+- Author and maintainer of [pyAA](https://github.com/gusamarante/pyaa), an all-around finance python library
 
 ---
 # *Skills*

@@ -5,10 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 
+---
 # pyAA
 This repository was born as a quantitative finance project during my studies for the CQF, but it ended up as 
-an all-around finance project.
+an all-around finance project. You can find it [here](https://github.com/gusamarante/pyaa).
 
+---
 # DSGEpy
 This is a Python library to specify, calibrate, solve, simulate, estimate and analyze linearized DSGE models.
 The specification interface is inpired by dynare, which allows for symbolic declarations of parameters,

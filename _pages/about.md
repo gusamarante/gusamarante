@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This website is **under constructions**. Most of the information here is currently wrong.
+This website is **under construction**. Most of the information here is currently wrong.
 
 ---
