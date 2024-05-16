@@ -13,8 +13,6 @@ redirect_from:
 # *Professional Interests*
 Asset Allocation and Systematic Strategies
 
-[//]: # (include academic interests)
-
 ---
 # *Work Experience*
 ### BWGI - Asset Allocation (2023 - Present)
@@ -50,15 +48,14 @@ scenario. Research to support traders’ decisions.
 - **Advisor**: Juan Jensen
 
 ### CQF – Certificate in Quantitative Finance (2021)
-Final project available [here](https://gusamarante.me/files/cqf%20final%20project.pdf).
+Final project available [here](https://gusamarante.me/files/cqf%20final%20project.pdf). Focused on denoising covariance matrices and using carry as 
+expected returns in the Black-Literman model for a portfolio of currencies.
 
 ### Data Science Specialization - Insper (2017)
-
-[//]: # (Elaborate on this)
+Classic machine learning models for regression and classification.
 
 ### Deep Learning Specialization - Coursera (2020)
-
-[//]: # (Elaborate on this)
+Architecht, program and train large neural networks for classification, regression, computer vision and natural language.
 
 ---
 # *Developer Experience*
