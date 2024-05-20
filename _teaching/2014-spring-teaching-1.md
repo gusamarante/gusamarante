@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Timeseries Econometrics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: ""  # Undergraduate course, for example
+permalink: /teaching/timeseries-econometrics
+venue: "",  # University 1, Department
+date: 2016-01-01
+location: "São Paulo, Brazil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A very intuitive and detailed introduction to timeseries econometrics
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+More details soon...
