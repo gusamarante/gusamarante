@@ -10,5 +10,4 @@ location: "São Paulo, Brazil"
 
 A very intuitive and detailed introduction to timeseries econometrics
 
-# Heading 1
 More details soon...
