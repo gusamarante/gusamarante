@@ -1,11 +1,11 @@
 ---
 title: "Introduction to Timeseries Econometrics"
 collection: teaching
-type: " "  # Undergraduate course, for example
+type: "Undergratuate course"
 permalink: /teaching/timeseries-econometrics
-venue: " ",  # University 1, Department
+venue: "Insper",
 date: 2016-01-01
-location: "São Paulo, Brazil"
+location: "Sao Paulo, Brazil"
 ---
 
 A very intuitive and detailed introduction to timeseries econometrics
