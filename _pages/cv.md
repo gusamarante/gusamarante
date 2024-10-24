@@ -65,10 +65,10 @@ Architecht, program and train large neural networks for classification, regressi
 ---
 # *Skills*
 ### Programming
-Python, SQL, MATLAB, VBA
+Python, SQL, Git, R, MATLAB, VBA
 
 ### Languages
 - Portuguese: native language
 - English: Fluent
 - French: Intermediate
-- Japanse: Beginner
+- Japanse: First steps
