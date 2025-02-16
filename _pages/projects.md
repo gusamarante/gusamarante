@@ -40,7 +40,13 @@ Implementation of ["Pricing the Term Structure with Linear Regressions" from Adr
 This library prices the time series and cross-section of the term structure of 
 interest rates using a three-step linear regression approach. Computations are 
 fast, even with a large number of pricing factors. Generates estimates for term 
-premium, risk neutral yields and expected returns. You can view `pyacm` on 
+premium, risk neutral yields and expected returns. 
+
+I would like to thank Emanuel Moench for sharing his replication files of the 
+original paper. I made sure to match each and every computation step with the 
+authors' original implementation.
+
+You can view `pyacm` on 
 [PyPi](https://pypi.org/project/pyacm/) 
 or 
 [GitHub](https://github.com/gusamarante/pyacm)
