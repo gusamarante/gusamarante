@@ -1,4 +1,4 @@
-[mysite]: https://gusamarante.me/
+[mysite]: https://www.gusamarante.me/
 
 # Gustavo Amarante
 ![](https://img.shields.io/github/followers/gusamarante?style=social)
