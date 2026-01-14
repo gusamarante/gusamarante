@@ -12,5 +12,5 @@ My main interests are empirical finance and systematic strategies. I also enjoy 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gusamarante/dsgepy,gusamarante/bayesfm,gusamarante/pyacm,gusamarante/empfin&type=Date)](https://star-history.com/#gusamarante/dsgepy&gusamarante/bayesfm&gusamarante/pyacm&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=gusamarante/dsgepy,gusamarante/bayesfm,gusamarante/pyacm,gusamarante/empfin&type=Date)](https://star-history.com/#gusamarante/dsgepy&gusamarante/bayesfm&gusamarante/pyacm&gusamarante/empfin&Date)
 
